@@ -10,7 +10,7 @@ Built a robust financial forecasting pipeline using Microsoft stock data (2004â€
 <img width="492" height="258" alt="Screenshot 2025-09-22 at 12 05 33 PM" src="https://github.com/user-attachments/assets/4e37d9f0-ca69-4468-bce9-643fca46c9f5" />
 
 ### The Reward and Loss functions of the stock based on ensemble model:
-<img width="349" height="135" alt="Screenshot 2025-09-22 at 12 06 13 PM" src="https://github.com/user-attachments/assets/99dafc71-6dd1-438e-8830-f112da71411e" />
+<img width="500" height="300" alt="Screenshot 2025-09-22 at 12 06 13 PM" src="https://github.com/user-attachments/assets/99dafc71-6dd1-438e-8830-f112da71411e" />
 
 ### Train and Test Results
 <img width="350" height="87" alt="Screenshot 2025-09-22 at 12 08 56 PM" src="https://github.com/user-attachments/assets/d00f58da-4839-45fc-b839-4efdf84cd1ab" />
