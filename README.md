@@ -3,7 +3,7 @@ Built a robust financial forecasting pipeline using Microsoft stock data (2004â€
 
 
 ### Flow Diagram of the Proposed Approach:
-<img width="565" height="260" alt="Screenshot 2025-09-22 at 12 09 08 PM" src="https://github.com/user-attachments/assets/11490c4c-6c6b-403b-b400-675f7be93438" />
+<img width="750" height="450" alt="Screenshot 2025-09-22 at 12 09 08 PM" src="https://github.com/user-attachments/assets/11490c4c-6c6b-403b-b400-675f7be93438" />
 
 
 ### Time vs. Market Value Profile Analysis
